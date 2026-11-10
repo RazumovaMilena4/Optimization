@@ -22,9 +22,9 @@
 ### Лабораторные работы (Laba)
 | № | Название | Ссылка | Готовность | Сдано? |
 |---|----------|--------|------------|--------|
-| 1 | Проведение общего аудита сайта | [ЛР №1](https://github.com/RazumovaMilena4/Optimization/blob/main/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.md) | ✓ | - |
+| 1 | Проведение общего аудита сайта | [ЛР №1](https://github.com/RazumovaMilena4/Optimization/blob/main/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.md) | ✓ | ✓ |
 | 2 | Техническая оптимизация | [ЛР №2](https://github.com/RazumovaMilena4/Optimization/blob/19b0ef99d0725ee0565bee72603dd80e903f8936/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.md) | ✓ | - |
-| 3 | Sitemap | [ЛР №3](https://github.com/RazumovaMilena4/Optimization/blob/27eaa981f9574383295e4ed1d93e4810cc37aa7a/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.md) | ✓ | - |
+| 3 | Sitemap | [ЛР №3](https://github.com/RazumovaMilena4/Optimization/blob/27eaa981f9574383295e4ed1d93e4810cc37aa7a/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.md) | ✓ | ✓ |
 | 4 | Семантическое ядро | [ЛР №4]() | В работе | - |
 | 5 | Адаптивный дизайн и UX-аудит | [ЛР №5]() | В работе | - |
 | 6 | Поисковая оптимизация (SEO) | [ЛР №6]() | В работе | - |
