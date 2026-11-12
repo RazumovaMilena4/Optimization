@@ -14,7 +14,7 @@
 | № | Название | Ссылка | Готовность | Сдано? |
 |---|----------|--------|------------|--------|
 | 1 | Пользовательские запросы в веб-приложении | [ПР №1](https://github.com/RazumovaMilena4/Optimization/blob/main/Pr_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.md) | ✓ | ✓ |
-| 2 | MVC | [ПР №2]() | ✓ | - |
+| 2 | MVC | [ПР №2](https://github.com/RazumovaMilena4/Optimization/blob/387cfa26671c368b4295d3eca93538811c830296/Pr_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.md) | ✓ | - |
 | 3 | Оптимизация изображений | [ПР №3](https://github.com/RazumovaMilena4/Optimization/blob/df589c3d5db3095df49b7557038c8d72e981b482/Pr_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.md) | ✓ | ✓ |
 | 4 | Мобильная оптимизация и адаптивность | [ПР №4](https://github.com/RazumovaMilena4/Optimization/blob/dcf4f3d4dfa3941a845630cfa2f55292df9321aa/Pr_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.md) | ✓ | - |
 | 5 | Сниппеты, SEO-теги и семантическая разметка | [ПР №5]() | ✓ | - |
