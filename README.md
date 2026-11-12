@@ -48,8 +48,8 @@
 |---|----------|--------|------------|--------|
 | 1 | Анализ конкурентов | [ДЗ №1](https://github.com/RazumovaMilena4/Optimization/blob/main/Dz/%D0%94%D0%97_1_%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D1%8B_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_Stepik.pdf) | ✓ |
 | 2 | Запросы | [ДЗ №2](https://github.com/RazumovaMilena4/Optimization/blob/main/Dz/%D0%94%D0%97_2_%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_Stepik.pdf) | ✓ |
-| 3 | ГОСТ 34 и 19 | [ДЗ №3]() | ✓ | - |
-| 4 | Файл robots.txt | [ДЗ №4]() | ✓ | - |
+| 3 | ГОСТ 34 и 19 | [ДЗ №3](https://github.com/RazumovaMilena4/Optimization/blob/167c10f0c14149122a09b45b8b7ee20dba1f462a/Dz/%D0%94%D0%97_3.md) | ✓ | - |
+| 4 | Файл robots.txt | [ДЗ №4](https://github.com/RazumovaMilena4/Optimization/blob/167c10f0c14149122a09b45b8b7ee20dba1f462a/Dz/%D0%94%D0%97_4.md) | ✓ | - |
 
 
 
