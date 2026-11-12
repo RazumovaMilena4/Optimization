@@ -25,10 +25,10 @@
 | 1 | Проведение общего аудита сайта | [ЛР №1](https://github.com/RazumovaMilena4/Optimization/blob/main/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.md) | ✓ | ✓ |
 | 2 | Техническая оптимизация | [ЛР №2](https://github.com/RazumovaMilena4/Optimization/blob/19b0ef99d0725ee0565bee72603dd80e903f8936/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.md) | ✓ | - |
 | 3 | Sitemap | [ЛР №3](https://github.com/RazumovaMilena4/Optimization/blob/27eaa981f9574383295e4ed1d93e4810cc37aa7a/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.md) | ✓ | ✓ |
-| 4 | Семантическое ядро | [ЛР №4]() | ✓ | - |
-| 5 | Адаптивный дизайн и UX-аудит | [ЛР №5]() | ✓ | - |
-| 6 | Поисковая оптимизация (SEO) | [ЛР №6]() | ✓ | - |
-| 7 | Системы аналитики (Google Analytics, Яндекс.Метрика) | [ЛР №7]() | ✓ | - |
+| 4 | Семантическое ядро | [ЛР №4](https://github.com/RazumovaMilena4/Optimization/blob/167c10f0c14149122a09b45b8b7ee20dba1f462a/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.md) | ✓ | - |
+| 5 | Адаптивный дизайн и UX-аудит | [ЛР №5](https://github.com/RazumovaMilena4/Optimization/blob/167c10f0c14149122a09b45b8b7ee20dba1f462a/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%205.md) | ✓ | - |
+| 6 | Поисковая оптимизация (SEO) | [ЛР №6](https://github.com/RazumovaMilena4/Optimization/blob/167c10f0c14149122a09b45b8b7ee20dba1f462a/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%206.md) | ✓ | - |
+| 7 | Системы аналитики (Google Analytics, Яндекс.Метрика) | [ЛР №7](https://github.com/RazumovaMilena4/Optimization/blob/167c10f0c14149122a09b45b8b7ee20dba1f462a/Laba/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207.md) | ✓ | - |
 | 8 | Настройка Apache + PHP-FPM в VirtualBox с SSH доступом | [ЛР №8]() | В работе | - |
 | 9 | Настройка Nginx PHP FPM в VirtualBox с SSH доступом и WebSocket чат | [ЛР №9]() | В работе | - |
 
