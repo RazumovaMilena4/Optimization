@@ -50,7 +50,7 @@
 | 2 | Запросы | [ДЗ №2](https://github.com/RazumovaMilena4/Optimization/blob/main/Dz/%D0%94%D0%97_2_%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B_Stepik.pdf) | ✓ |
 | 3 | ГОСТ 34 и 19 | [ДЗ №3]() | ✓ | - |
 | 4 | Файл robots.txt | [ДЗ №4]() | ✓ | - |
-| 5 | Доклад жизненный цикл HTTP-запроса | [ДЗ]() | ✓ | - |
+
 
 
 
