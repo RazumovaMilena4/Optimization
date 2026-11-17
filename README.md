@@ -18,6 +18,15 @@
 | 3 | Оптимизация изображений | [ПР №3](https://github.com/RazumovaMilena4/Optimization/blob/df589c3d5db3095df49b7557038c8d72e981b482/Pr_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.md) | ✓ | ✓ |
 | 4 | Мобильная оптимизация и адаптивность | [ПР №4](https://github.com/RazumovaMilena4/Optimization/blob/dcf4f3d4dfa3941a845630cfa2f55292df9321aa/Pr_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.md) | ✓ | - |
 | 5 | Сниппеты, SEO-теги и семантическая разметка | [ПР №5](https://github.com/RazumovaMilena4/Optimization/blob/167c10f0c14149122a09b45b8b7ee20dba1f462a/Pr_works/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%205.md) | ✓ | - |
+| 6 | Short Polling | [ПР №6]() | В работе |  |
+| 7 | Long Polling | [ПР №7]() | В работе |  |
+| 8 | SSE | [ПР №8]() | В работе |  |
+| 9 | WebSocket | [ПР №9]() | В работе |  |
+| 10 | Apache | [ПР №10]() | В работе |  |
+| 11 | Nginx | [ПР №11]() | В работе |  |
+| 12 | Редиректы | [ПР №12]() | В работе |  |
+| 13 | HTTPS | [ПР №13]() | В работе |  |
+| 14 | Конверсия | [ПР №14]() | В работе |  |
 
 ### Лабораторные работы (Laba)
 | № | Название | Ссылка | Готовность | Сдано? |
